@@ -1,4 +1,4 @@
-# Tool-Rental-API
+# Tool-Rental-API Autmation
 Simple Tool Rental API Autmation
 
 ## Important Links
